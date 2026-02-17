@@ -13,9 +13,10 @@ class Bicycle(Vehicle):
         print("Pedaling on the road")
 
 
-# Objects
+
 c = Car()
 c.move()
 
 b = Bicycle()
+
 b.move()
